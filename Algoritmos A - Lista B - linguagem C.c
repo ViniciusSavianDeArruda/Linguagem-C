@@ -1,5 +1,5 @@
 //Lista 2 algoritmos A
-//1.Escreva um algoritmo para ler trÍs valores inteiros e escrever na tela o maior deles. Considere que todos os valores s„o diferentes.
+//1.Escreva um algoritmo para ler tr√™s valores inteiros e escrever na tela o maior deles. Considere que todos os valores s√£o diferentes.
 
 /*#include <stdio.h>
 
@@ -17,18 +17,18 @@ int main(){
 	scanf("%d",&c);
 	
 	if(a > b && a > c ){
-		printf("O maior valor È:%d\n", a);	
+		printf("O maior valor √©:%d\n", a);	
 	}else if(b > a && b > c){
-		printf("O maior valor È:%d\n", b);		
+		printf("O maior valor √©:%d\n", b);		
 	}else{
-		printf("O maior valor È:%d\n", c);
+		printf("O maior valor √©:%d\n", c);
 	}
 	
 	return 0;
 }*/
 
 
-//2.2. Desenvolva um algoritmo para ler quatro valores inteiros, calcular a sua mÈdia, e escrever na tela os que s„o superiores ‡ mÈdia.
+//2.2. Desenvolva um algoritmo para ler quatro valores inteiros, calcular a sua m√©dia, e escrever na tela os que s√£o superiores √† m√©dia.
 
 /*#include <stdio.h>
 
@@ -57,7 +57,7 @@ int main(){
 }*/
 
 
-//3.Escreva um algoritmo para ler a quantidade de horas aula trabalhadas por dois professores e o valor por hora recebido por cada um deles. Mostrar na tela qual dos professores tem o maior sal·rio total.
+//3.Escreva um algoritmo para ler a quantidade de horas aula trabalhadas por dois professores e o valor por hora recebido por cada um deles. Mostrar na tela qual dos professores tem o maior sal√°rio total.
 
 
 /*#include <stdio.h>
@@ -93,7 +93,7 @@ int main(){
 }*/
 
 
-//4.Escreva um algoritmo para ler dois valores e uma das seguintes operaÁıes a serem executadas(codificadas da seguinte forma: 1 ñ AdiÁ„o, 2 ñ SubtraÁ„o, 3 ñ MultiplicaÁ„o e 4 ñ Divis„o).Calcular e escrever o resultado dessa operaÁ„o sobre os dois valores lidos.
+//4.Escreva um algoritmo para ler dois valores e uma das seguintes opera√ß√µes a serem executadas(codificadas da seguinte forma: 1 ‚Äì Adi√ß√£o, 2 ‚Äì Subtra√ß√£o, 3 ‚Äì Multiplica√ß√£o e 4 ‚Äì Divis√£o).Calcular e escrever o resultado dessa opera√ß√£o sobre os dois valores lidos.
 
 /*#include <stdio.h>
 
@@ -101,41 +101,41 @@ int main() {
     float valor1, valor2, resultado;
     int operacao;
 
-    // Leitura dos valores e da operaÁ„o
+    // Leitura dos valores e da opera√ß√£o
     printf("Digite o primeiro valor: ");
     scanf("%f", &valor1);
     
     printf("Digite o segundo valor: ");
     scanf("%f", &valor2);
     
-    printf("Escolha a operaÁ„o (1 - AdiÁ„o, 2 - SubtraÁ„o, 3 - MultiplicaÁ„o, 4 - Divis„o): ");
+    printf("Escolha a opera√ß√£o (1 - Adi√ß√£o, 2 - Subtra√ß√£o, 3 - Multiplica√ß√£o, 4 - Divis√£o): ");
     scanf("%d", &operacao);
 
-    // Verifica se a operaÁ„o È divis„o e valor2 È zero
+    // Verifica se a opera√ß√£o √© divis√£o e valor2 √© zero
     if (operacao == 4 && valor2 == 0) {
-        printf("Erro: Divis„o por zero n„o permitida.\n");
+        printf("Erro: Divis√£o por zero n√£o permitida.\n");
         return 1;  // Encerra o programa com um erro
     }
 
-    // Vetor de resultados para as operaÁıes
+    // Vetor de resultados para as opera√ß√µes
     float resultados[] = {
-        valor1 + valor2,  // AdiÁ„o
-        valor1 - valor2,  // SubtraÁ„o
-        valor1 * valor2,  // MultiplicaÁ„o
-        valor1 / valor2   // Divis„o
+        valor1 + valor2,  // Adi√ß√£o
+        valor1 - valor2,  // Subtra√ß√£o
+        valor1 * valor2,  // Multiplica√ß√£o
+        valor1 / valor2   // Divis√£o
     };
 
-    // A operaÁ„o È diretamente escolhida pelo Ìndice
+    // A opera√ß√£o √© diretamente escolhida pelo √≠ndice
     resultado = resultados[operacao - 1];
 
     // Exibe o resultado
-    printf("O resultado da operaÁ„o È: %.2f\n", resultado);
+    printf("O resultado da opera√ß√£o √©: %.2f\n", resultado);
 
     return 0;
 }*/
 
 
-//5.Escreva um algoritmo para ler a idade de uma pessoa e mostrar qual sua situaÁ„o de eleitor, conforme as seguintes condiÁıes: se a idade for menor que 16 anos, informar que a pessoa n„o est· apta a votar. Se a idade for maior ou igual a 16 anos e menor que 18 anos ou superior a 70 anos, informar que o voto È facultativo. Caso contr·rio, informar que o voto È obrigatÛrio. 
+//5.Escreva um algoritmo para ler a idade de uma pessoa e mostrar qual sua situa√ß√£o de eleitor, conforme as seguintes condi√ß√µes: se a idade for menor que 16 anos, informar que a pessoa n√£o est√° apta a votar. Se a idade for maior ou igual a 16 anos e menor que 18 anos ou superior a 70 anos, informar que o voto √© facultativo. Caso contr√°rio, informar que o voto √© obrigat√≥rio. 
 
 
 
