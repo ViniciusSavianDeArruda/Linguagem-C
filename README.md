@@ -13,9 +13,7 @@ Repositório com os exercícios de **C** e **C++** desenvolvidos na faculdade de
 - 🔢 Variáveis e tipos de dados  
 - 🔁 Estruturas de repetição (`for`, `while`, `do-while`)  
 - 🔀 Estruturas condicionais (`if`, `else`, `switch`)  
-- 🔧 Funções  
 - 📦 Vetores e matrizes  
-- 🧭 Ponteiros  
 
 ---
 
