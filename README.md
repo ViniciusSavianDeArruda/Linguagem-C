@@ -1,45 +1,44 @@
-💻 Exercícios em C e C++
-Repositório com os exercícios de C e C++ desenvolvidos na faculdade de Sistemas de Informação.
+<div align="center">
 
-📚 Tópicos abordados
-🧠 Lógica de programação
+# 💻 Exercícios em C e C++
 
-✍️ Sintaxe básica do C e C++
+Repositório com os exercícios de **C** e **C++** desenvolvidos na faculdade de Sistemas de Informação.
 
-🔢 Variáveis e tipos de dados
+---
 
-🔁 Estruturas de repetição (for, while, do-while)
+## 📚 Tópicos abordados
 
-🔀 Estruturas condicionais (if, else, switch)
+- 🧠 Lógica de programação  
+- ✍️ Sintaxe básica do C e C++  
+- 🔢 Variáveis e tipos de dados  
+- 🔁 Estruturas de repetição (`for`, `while`, `do-while`)  
+- 🔀 Estruturas condicionais (`if`, `else`, `switch`)  
+- 🔧 Funções  
+- 📦 Vetores e matrizes  
+- 🧭 Ponteiros  
 
-🔧 Funções
+---
 
-📦 Vetores e matrizes
+## 🛠️ Requisitos
 
-🧭 Ponteiros
-
-🛠️ Requisitos
 Para compilar e executar os códigos, é necessário ter um compilador instalado, como:
 
-GCC (para C)
+- GCC (para C)  
+- G++ (para C++)  
+- MinGW  
+- Visual Studio  
+- OnlineGDB (editor online)  
+- Dev-C++  
 
-G++ (para C++)
+---
 
-MinGW
+## 🚀 Como executar
 
-Visual Studio
+O repositório contém exercícios tanto em **C** quanto em **C++**. Para compilar e executar os arquivos, siga as instruções abaixo:
 
-OnlineGDB (editor online)
+### Para C:
 
-Dev-C++
-
-🚀 Como executar
-O repositório contém exercícios tanto em C quanto em C++. Para compilar e executar os arquivos, siga as instruções abaixo:
-
-Para C:
-bash
-Copiar
-Editar
+```bash
 # Clone o repositório
 git clone https://github.com/ViniciusSavianDeArruda/Linguagem-C.git
 
@@ -71,5 +70,3 @@ Feito por Vinícius Savian de Arruda
 🔗 GitHub
 
 ⚠️ Este repositório é destinado para fins acadêmicos e de aprendizado. Fique à vontade para sugerir melhorias ou enviar contribuições! 😊
-
-
