@@ -1,58 +1,75 @@
-<div align="center">
-  <h1>💻 Exercícios em C++</h1>
-  <p>Repositório com os exercícios de C++ desenvolvidos na faculdade de <strong>Sistemas de Informação</strong>.</p>
-</div>
+💻 Exercícios em C e C++
+Repositório com os exercícios de C e C++ desenvolvidos na faculdade de Sistemas de Informação.
 
----
+📚 Tópicos abordados
+🧠 Lógica de programação
 
-## 📚 Tópicos abordados
+✍️ Sintaxe básica do C e C++
 
-- 🧠 Lógica de programação
-- ✍️ Sintaxe básica do C++
-- 🔢 Variáveis e tipos de dados
-- 🔁 Estruturas de repetição (for, while, do-while)
-- 🔀 Estruturas condicionais (if, else, switch)
-- 🔧 Funções
-- 📦 Vetores e matrizes
-- 🧭 Ponteiros
+🔢 Variáveis e tipos de dados
 
----
+🔁 Estruturas de repetição (for, while, do-while)
 
-## 🛠️ Requisitos
+🔀 Estruturas condicionais (if, else, switch)
 
-Para compilar e executar os códigos, é necessário ter um compilador C++ instalado, como:
+🔧 Funções
 
-- [GCC](https://gcc.gnu.org/)
-- [MinGW](http://www.mingw.org/)
-- [Visual Studio](https://visualstudio.microsoft.com/)
-- [OnlineGDB (editor online)](https://www.onlinegdb.com/)
-- [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
+📦 Vetores e matrizes
 
----
+🧭 Ponteiros
 
-## 🚀 Como executar
+🛠️ Requisitos
+Para compilar e executar os códigos, é necessário ter um compilador instalado, como:
 
-```bash
+GCC (para C)
+
+G++ (para C++)
+
+MinGW
+
+Visual Studio
+
+OnlineGDB (editor online)
+
+Dev-C++
+
+🚀 Como executar
+O repositório contém exercícios tanto em C quanto em C++. Para compilar e executar os arquivos, siga as instruções abaixo:
+
+Para C:
+bash
+Copiar
+Editar
 # Clone o repositório
-git clone https://github.com/ViniciusSavianDeArruda/MeuPortfolio.git
+git clone https://github.com/ViniciusSavianDeArruda/Linguagem-C.git
 
-# Acesse a pasta do projeto
-cd exercicios-cpp/aula01
+# Acesse a pasta do exercício em C
+cd Linguagem-C/exercicios-c
 
-# Compile o arquivo
+# Compile o arquivo (exemplo com exercicio1.c)
+gcc exercicio1.c -o exercicio1
+
+# Execute o programa
+./exercicio1
+Para C++:
+bash
+Copiar
+Editar
+# Acesse a pasta do exercício em C++
+cd Linguagem-C/exercicios-cpp
+
+# Compile o arquivo (exemplo com exercicio1.cpp)
 g++ exercicio1.cpp -o exercicio1
 
-# Execute
+# Execute o programa
 ./exercicio1
+💡 No Windows, o comando para executar pode ser exercicio1.exe em vez de ./exercicio1.
 
----
+👨‍💻 Autor
+Feito por Vinícius Savian de Arruda
+📘 Aluno de Sistemas de Informação
+🔗 GitHub
 
-## 👨‍💻 Autor
+⚠️ Este repositório é destinado para fins acadêmicos e de aprendizado. Fique à vontade para sugerir melhorias ou enviar contribuições! 😊
 
-Feito por **Vinícius Savian de Arruda**  
-📘 Aluno de Sistemas de Informação  
-🔗 [GitHub](https://github.com/ViniciusSavianDeArruda)
 
----
-
-> ⚠️ Este repositório é destinado para fins acadêmicos e de aprendizado. Fique à vontade para sugerir melhorias ou enviar contribuições! 😊
