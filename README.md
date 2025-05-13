@@ -45,6 +45,8 @@ gcc exercicio1.c -o exercicio1
 
 # Execute o programa
 ./exercicio1
+---
+
 🔸 Compilar e executar códigos em C++
 bash
 Copiar
@@ -58,6 +60,7 @@ g++ exercicio1.cpp -o exercicio1
 # Execute o programa
 ./exercicio1
 💡 No Windows, o comando para executar pode ser exercicio1.exe ao invés de ./exercicio1.
+---
 
 🤝 Como Contribuir
 Quer contribuir com o projeto? Fique à vontade! Siga as etapas abaixo para fazer isso:
