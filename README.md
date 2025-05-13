@@ -60,10 +60,10 @@ g++ exercicio1.cpp -o exercicio1
 💡 No Windows, o comando para executar pode ser exercicio1.exe ao invés de ./exercicio1.
 
 🤝 Como Contribuir
-Contribuições são bem-vindas! Se você deseja sugerir melhorias ou adicionar novos exercícios ao repositório, siga as etapas abaixo:
+Quer contribuir com o projeto? Fique à vontade! Siga as etapas abaixo para fazer isso:
 
 1. Faça um Fork do repositório
-Crie uma cópia do repositório no seu GitHub.
+Crie uma cópia do repositório no seu GitHub para poder fazer modificações.
 
 2. Crie uma Branch para sua modificação
 Antes de começar a trabalhar em suas alterações, crie uma branch com um nome descritivo para o que você está fazendo. Exemplo:
@@ -92,7 +92,6 @@ Depois de enviar as alterações para o seu repositório, abra um PR para que eu
 Vinícius Savian de Arruda
 📘 Estudante de Sistemas de Informação (UFN)
 🔗 GitHub
-
 ⚠️ Aviso
 Este repositório é destinado exclusivamente a fins acadêmicos e de aprendizado.
 Fique à vontade para explorar os códigos como base para seus estudos. 😊
