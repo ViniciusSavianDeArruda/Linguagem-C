@@ -1,40 +1,39 @@
-🧩 Exercícios em C e C++
-Repositório com exercícios desenvolvidos durante a graduação em Sistemas de Informação na UFN.
-Contém códigos em C e C++, voltados ao aprendizado de lógica de programação e estruturas fundamentais das linguagens.
+# 🧩 Exercícios em C e C++
 
-📚 Tópicos abordados
-🧠 Lógica de programação
+Repositório com exercícios desenvolvidos durante a graduação em **Sistemas de Informação** na UFN.  
+Contém códigos em **C** e **C++**, voltados ao aprendizado de lógica de programação e estruturas fundamentais das linguagens.
 
-✍️ Sintaxe básica em C e C++
+---
 
-🔢 Variáveis e tipos de dados
+## 📚 Tópicos abordados
 
-🔁 Estruturas de repetição (for, while, do-while)
+- 🧠 Lógica de programação  
+- ✍️ Sintaxe básica em C e C++  
+- 🔢 Variáveis e tipos de dados  
+- 🔁 Estruturas de repetição (`for`, `while`, `do-while`)  
+- 🔀 Estruturas condicionais (`if`, `else`, `switch`)  
+- 📦 Vetores e matrizes  
 
-🔀 Estruturas condicionais (if, else, switch)
+---
 
-📦 Vetores e matrizes
+## 🛠️ Requisitos
 
-🛠️ Requisitos
 Para compilar e executar os códigos, é necessário ter um compilador de C/C++ instalado. Abaixo estão algumas opções recomendadas:
 
-🔧 GCC (GNU Compiler Collection)
+- [🔧 GCC (GNU Compiler Collection)](https://gcc.gnu.org/install/)  
+- [🔧 G++ (GNU C++ Compiler)](https://gcc.gnu.org/install/)  
+- [💻 MinGW (Windows)](https://sourceforge.net/projects/mingw/)  
+- [🧰 Visual Studio (com workload de C++)](https://visualstudio.microsoft.com/pt-br/)  
+- [🌐 OnlineGDB (editor/compilador online)](https://www.onlinegdb.com/)  
+- [👨‍💻 Dev-C++ (Windows)](https://sourceforge.net/projects/orwelldevcpp/)  
 
-🔧 G++ (GNU C++ Compiler)
+---
 
-💻 MinGW (Windows)
+## 🚀 Como executar
 
-🧰 Visual Studio (com workload de C++)
+### 🔹 **Compilar e executar códigos em C**
 
-🌐 OnlineGDB (editor/compilador online)
-
-👨‍💻 Dev-C++ (Windows)
-
-🚀 Como executar
-🔹 Compilar e executar códigos em C
-bash
-Copiar
-Editar
+```bash
 # Clone o repositório
 git clone https://github.com/ViniciusSavianDeArruda/Linguagem-C.git
 
