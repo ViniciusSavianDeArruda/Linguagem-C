@@ -31,7 +31,7 @@ Para compilar e executar os códigos, é necessário ter um compilador de C/C++ 
 
 ## 🚀 Como executar
 
-### 🔹 **Compilar e executar códigos em C**
+### 🔹 Compilar e executar códigos em C
 
 ```bash
 # Clone o repositório
@@ -45,7 +45,6 @@ gcc exercicio1.c -o exercicio1
 
 # Execute o programa
 ./exercicio1
----
 
 🔸 Compilar e executar códigos em C++
 bash
@@ -59,8 +58,7 @@ g++ exercicio1.cpp -o exercicio1
 
 # Execute o programa
 ./exercicio1
-💡 No Windows, o comando para executar pode ser exercicio1.exe ao invés de ./exercicio1.
----
+💡 Nota: No Windows, o comando para executar pode ser exercicio1.exe ao invés de ./exercicio1.
 
 🤝 Como Contribuir
 Quer contribuir com o projeto? Fique à vontade! Siga as etapas abaixo para fazer isso:
@@ -95,6 +93,7 @@ Depois de enviar as alterações para o seu repositório, abra um PR para que eu
 Vinícius Savian de Arruda
 📘 Estudante de Sistemas de Informação (UFN)
 🔗 GitHub
+
 ⚠️ Aviso
 Este repositório é destinado exclusivamente a fins acadêmicos e de aprendizado.
 Fique à vontade para explorar os códigos como base para seus estudos. 😊
