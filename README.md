@@ -1,11 +1,11 @@
 🧩 Exercícios em C e C++
-Repositório com exercícios desenvolvidos durante a graduação em Sistemas de Informação.
-Contém códigos em C e C++, focados no aprendizado de lógica de programação e estruturas básicas das linguagens.
+Repositório com exercícios desenvolvidos durante a graduação em Sistemas de Informação na UFN.
+Contém códigos em C e C++, voltados ao aprendizado de lógica de programação e estruturas fundamentais das linguagens.
 
 📚 Tópicos abordados
 🧠 Lógica de programação
 
-✍️ Sintaxe básica de C e C++
+✍️ Sintaxe básica em C e C++
 
 🔢 Variáveis e tipos de dados
 
@@ -16,24 +16,22 @@ Contém códigos em C e C++, focados no aprendizado de lógica de programação 
 📦 Vetores e matrizes
 
 🛠️ Requisitos
-Para compilar e executar os códigos, é necessário ter um compilador instalado. Aqui estão algumas opções:
+Para compilar e executar os códigos, é necessário ter um compilador de C/C++ instalado. Abaixo estão algumas opções recomendadas:
 
-🔧 GCC (GNU Compiler Collection) – compilador para C
+🔧 GCC (GNU Compiler Collection)
 
-🔧 G++ (GNU C++ Compiler) – compilador para C++
+🔧 G++ (GNU C++ Compiler)
 
-💻 MinGW (Minimalist GNU for Windows) – GCC/G++ para Windows
+💻 MinGW (Windows)
 
-🧰 Visual Studio (com C/C++ workload) – IDE da Microsoft com suporte a C/C++
+🧰 Visual Studio (com workload de C++)
 
-🌐 OnlineGDB (Editor e compilador online) – permite compilar e testar sem instalar nada
+🌐 OnlineGDB (editor/compilador online)
 
-👨‍💻 Dev-C++ – IDE leve para C/C++ no Windows
+👨‍💻 Dev-C++ (Windows)
 
 🚀 Como executar
-O repositório contém exercícios separados por linguagem.
-
-🔹 Para C:
+🔹 Compilar e executar códigos em C
 bash
 Copiar
 Editar
@@ -43,57 +41,59 @@ git clone https://github.com/ViniciusSavianDeArruda/Linguagem-C.git
 # Acesse a pasta de exercícios em C
 cd Linguagem-C/exercicios-c
 
-# Compile o arquivo (exemplo: exercicio1.c)
+# Compile um arquivo (exemplo: exercicio1.c)
 gcc exercicio1.c -o exercicio1
 
 # Execute o programa
 ./exercicio1
-🔸 Para C++:
+🔸 Compilar e executar códigos em C++
 bash
 Copiar
 Editar
 # Acesse a pasta de exercícios em C++
 cd Linguagem-C/exercicios-cpp
 
-# Compile o arquivo (exemplo: exercicio1.cpp)
+# Compile um arquivo (exemplo: exercicio1.cpp)
 g++ exercicio1.cpp -o exercicio1
 
 # Execute o programa
 ./exercicio1
-💡 No Windows, o comando pode ser exercicio1.exe em vez de ./exercicio1.
+💡 No Windows, o comando para executar pode ser exercicio1.exe ao invés de ./exercicio1.
 
-🤝 Como contribuir
-Contribuições são bem-vindas! Se você quiser sugerir melhorias, corrigir algo ou adicionar novos exercícios, siga os passos abaixo:
+🤝 Como Contribuir
+Contribuições são bem-vindas! Se você deseja sugerir melhorias ou adicionar novos exercícios ao repositório, siga as etapas abaixo:
 
-Fork o repositório
+1. Faça um Fork do repositório
+Crie uma cópia do repositório no seu GitHub.
 
-Crie uma branch com sua modificação:
-
-bash
-Copiar
-Editar
-git checkout -b minha-sugestao
-Faça o commit das suas alterações:
+2. Crie uma Branch para sua modificação
+Antes de começar a trabalhar em suas alterações, crie uma branch com um nome descritivo para o que você está fazendo. Exemplo:
 
 bash
 Copiar
 Editar
-git commit -m "Adiciona nova solução em C++"
-Suba a branch para seu repositório:
+git checkout -b nova-estrutura
+3. Faça as alterações necessárias
+Edite o código, o README ou adicione novos arquivos, conforme necessário.
+
+4. Commit e Push
+Após concluir as alterações, faça um commit e envie para o seu repositório:
 
 bash
 Copiar
 Editar
-git push origin minha-sugestao
-Abra um Pull Request com uma descrição clara das mudanças
+git commit -m "Adiciona novo exercício de C++"
+git push origin nova-estrutura
+5. Abra um Pull Request (PR)
+Depois de enviar as alterações para o seu repositório, abra um PR para que eu possa revisar suas contribuições. Descreva claramente as mudanças feitas e o que foi adicionado ou corrigido.
 
-Ficarei feliz em revisar e integrar melhorias! 🙌
+⚠️ Eu vou revisar o PR e, se estiver tudo certo, posso integrar suas alterações no repositório principal.
 
 👨‍💻 Autor
 Vinícius Savian de Arruda
-📘 Estudante de Sistemas de Informação
+📘 Estudante de Sistemas de Informação (UFN)
 🔗 GitHub
 
 ⚠️ Aviso
-Este repositório é voltado para fins acadêmicos e de aprendizado.
-Sinta-se à vontade para contribuir ou usar os códigos como base para seus estudos! 😊
+Este repositório é destinado exclusivamente a fins acadêmicos e de aprendizado.
+Fique à vontade para explorar os códigos como base para seus estudos. 😊
