@@ -8,7 +8,7 @@ Contém códigos em **C** e **C++**, voltados ao aprendizado de lógica de progr
 - 🧠 Lógica de programação  
 - ✍️ Sintaxe básica em C e C++  
 - 🔢 Variáveis e tipos de dados  
-- 🔁 Estruturas de repetição (`for`, `while`, `do-while`)  
+- 🔁 Estruturas de repetição (`for`, `while`, `do-while`) 
 - 🔀 Estruturas condicionais (`if`, `else`, `switch`)  
 - 📦 Vetores e matrizes  
 
