@@ -42,7 +42,7 @@ gcc exercicio1.c -o exercicio1
 ./exercicio1
 
 🔸 Compilar e executar códigos em C++
-bash
+```bash
 Copiar
 Editar
 # Acesse a pasta de exercícios em C++
@@ -64,7 +64,7 @@ Crie uma cópia do repositório no seu GitHub para poder fazer modificações.
 2. Crie uma Branch para sua modificação
 Antes de começar a trabalhar em suas alterações, crie uma branch com um nome descritivo para o que você está fazendo. Exemplo:
 
-bash
+```bash
 Copiar
 Editar
 git checkout -b nova-estrutura
@@ -74,7 +74,7 @@ Edite o código, o README ou adicione novos arquivos, conforme necessário.
 4. Commit e Push
 Após concluir as alterações, faça um commit e envie para o seu repositório:
 
-bash
+```bash
 Copiar
 Editar
 git commit -m "Adiciona novo exercício de C++"
