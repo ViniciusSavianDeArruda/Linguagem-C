@@ -26,9 +26,6 @@ Para compilar e executar os códigos, é necessário ter um compilador de C/C++ 
 
 ## 🚀 Como executar
 
-### 🔹 Compilar e executar códigos em C
-
-```bash
 # Clone o repositório
 git clone https://github.com/ViniciusSavianDeArruda/Linguagem-C.git
 
@@ -42,7 +39,7 @@ gcc exercicio1.c -o exercicio1
 ./exercicio1
 
 🔸 Compilar e executar códigos em C++
-```bash
+bash
 Copiar
 Editar
 # Acesse a pasta de exercícios em C++
@@ -56,15 +53,15 @@ g++ exercicio1.cpp -o exercicio1
 💡 Nota: No Windows, o comando para executar pode ser exercicio1.exe ao invés de ./exercicio1.
 
 🤝 Como Contribuir
-Quer contribuir com o projeto? Fique à vontade! Siga as etapas abaixo para fazer isso:
+Quer contribuir com o projeto? Fique à vontade! Siga as etapas abaixo para isso:
 
 1. Faça um Fork do repositório
 Crie uma cópia do repositório no seu GitHub para poder fazer modificações.
 
 2. Crie uma Branch para sua modificação
-Antes de começar a trabalhar em suas alterações, crie uma branch com um nome descritivo para o que você está fazendo. Exemplo:
+Antes de começar a trabalhar em suas alterações, crie uma branch com um nome descritivo. Exemplo:
 
-```bash
+bash
 Copiar
 Editar
 git checkout -b nova-estrutura
@@ -74,15 +71,15 @@ Edite o código, o README ou adicione novos arquivos, conforme necessário.
 4. Commit e Push
 Após concluir as alterações, faça um commit e envie para o seu repositório:
 
-```bash
+bash
 Copiar
 Editar
 git commit -m "Adiciona novo exercício de C++"
 git push origin nova-estrutura
 5. Abra um Pull Request (PR)
-Depois de enviar as alterações para o seu repositório, abra um PR para que eu possa revisar suas contribuições. Descreva claramente as mudanças feitas e o que foi adicionado ou corrigido.
+Depois de enviar as alterações, abra um PR para que eu possa revisar sua contribuição. Descreva claramente as mudanças feitas e o que foi adicionado ou corrigido.
 
-⚠️ Eu vou revisar o PR e, se estiver tudo certo, posso integrar suas alterações no repositório principal.
+⚠️ Vou revisar o PR e, se estiver tudo certo, posso integrar suas alterações no repositório principal.
 
 👨‍💻 Autor
 Vinícius Savian de Arruda
