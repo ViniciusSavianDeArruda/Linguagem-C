@@ -3,7 +3,7 @@
 Repositório com exercícios desenvolvidos durante a graduação em **Sistemas de Informação** na UFN.  
 Contém códigos em **C** e **C++**, voltados ao aprendizado de lógica de programação e estruturas fundamentais das linguagens.
 
----
+
 
 ## 📚 Tópicos abordados
 
