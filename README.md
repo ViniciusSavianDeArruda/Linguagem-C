@@ -10,7 +10,8 @@ Contém códigos em **C** e **C++**, voltados ao aprendizado de lógica de progr
 - 🔢 Variáveis e tipos de dados  
 - 🔁 Estruturas de repetição (`for`, `while`, `do-while`) 
 - 🔀 Estruturas condicionais (`if`, `else`, `switch`)  
-- 📦 Vetores e matrizes  
+- 📦 Vetores e matrizes
+- Strings
 
 ## 🛠️ Requisitos
 
